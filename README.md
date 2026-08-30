@@ -68,10 +68,6 @@ If you follow TRACK-Neuro workflow, please cite:
 
 <upcoming>
 
-# License
-
-MIT License
-
 # Contact
 
 Sharmila Venugopal (venugopallabcsulb@gmail.com), Department of Chemistry & Biochemistry, California State University Long Beach
