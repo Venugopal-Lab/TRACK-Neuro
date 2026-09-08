@@ -14,22 +14,22 @@ README.md
 
 LICENSE
 
-SMS_Template.xlsx
+SMS_Template_Sept2026.xlsx
 
-Example_SMS.csv
+TRACK-Neuro_SMS_Sept2026.csv
 
-Example_Node_Table.csv
+TRACK-Neuro_Node_Table_Sept2026.csv
 
-Example_Edge_Table.csv
+TRACK-Neuro_Edge_Table_Sept2026.csv
 
-Example_Cytoscape_Session.cys
+TRACK-Neuro_Cytoscape_Session_Sept2026.cys
 
 Figures/
 
 Documentation/
 
 # Workflow 
-1. Literature screening
+1. Literature search and screening
 2. Primary research article evaluation
 3. Scientific Meta Summary (SMS) curation
 4. Functional Interaction Score (FIS) computation
@@ -55,12 +55,15 @@ Future implementations may extend the workflow to other biological domains.
 * Required
 
  - Microsoft Excel or equivalent (e.g., REDCap, Google Sheets)
- - Cytoscape ≥ 3.10
+ - Cytoscape ≥ 3.10.3
  - PubMed
 
 * Optional
 
  - Google Forms
+
+* Code
+None
 
 # Citation
 
