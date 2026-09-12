@@ -29,24 +29,27 @@ Figures/
 Documentation/
 
 # Workflow 
-1. Literature search and screening
-2. Primary research article evaluation
-3. Scientific Meta Summary (SMS) curation
-4. Functional Interaction Score (FIS) computation
-5. Generation of node and edge tables
-6. Visualization in Cytoscape
+1. Literature search and screening Primary Research Articles (PRAs): Apply inclusion/exclusion criteria
+2. PRA evaluation
+3. Catalog Scientific Meta Summary (SMS)
+4. Compute Functional Interaction Score (FIS)
+5. Generate node and edge tables
+6. Create annotated network graph in Cytoscape version >= 3.10.3
+
 
 # Input
-See TRACK-Neuro-Curation-Template for input fields, controlled vocabulary, metadata schema and reference links
+1. PubMed for article search.
+2. 'TRACK-Neuro_SMS_Template_BioProtocol.xlsx' for SMS fields, controlled vocabulary, metadata schema and reference links.
+3. Node and Edge Tables for network graph generation using Cytoscape.
 
 # Output
 Scientific Meta Summaries (SMS)
 Functional Interaction Scores (FIS)
-Network modeling: Node tables, Edge tables
+Network/Knowledge Graph: Node tables, Edge tables
 
 # Example application
 
-The current implementation demonstrates the workflow using neuroimmune crosstalk, integrating experimentally supported interactions between neurons and microglia.
+The current implementation demonstrates the workflow using neuroimmune crosstalk, integrating experimentally supported interactions between neurons and microglia. See example annotated network graphs.
 
 Future implementations may extend the workflow to other biological domains.
 
