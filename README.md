@@ -1,4 +1,4 @@
-# TRACK-Neuro: Transforming Research into Annotated Computable Knowledge
+# TRACK-Neuro: Transforming Research into Annotated Computable Knowledge in Neuroscience
 A workflow for transforming fragmented primary research into structured, computable biological knowledge.
 
 Focusing on Neuroscience, TRACK-Neuro provides an organized workflow for converting experimentally validated findings from primary research articles into structured Scientific Meta Summaries (SMS), enabling quantitative analysis, knowledge integration and network construction.
