@@ -1,0 +1,118 @@
+﻿Unique_Entity,Molecular_Category,Cell type/Source,Node Size
+IL-1β,Secreted Protein Ligands,Microglia,10
+IL-4,Secreted Protein Ligands,Microglia,3
+IL-6,Secreted Protein Ligands,Microglia,12
+IL-10,Secreted Protein Ligands,Microglia,4
+IL-12p40,Secreted Protein Ligands,Microglia,1
+IL-18,Secreted Protein Ligands,Microglia,2
+TNF-α,Secreted Protein Ligands,Microglia,17
+TGF-β1,Secreted Protein Ligands,Microglia,1
+GDF-15,Secreted Protein Ligands,Microglia,2
+CX3CL1,Secreted Protein Ligands,Microglia,1
+C1q,Secreted Protein Ligands,Microglia,1
+C1qb,Secreted Protein Ligands,Microglia,1
+NGF,Secreted Protein Ligands,Microglia,1
+Glu,Small Signaling Molecules,Neuron,1
+GABA,Small Signaling Molecules,Neuron,1
+DA,Small Signaling Molecules,Neuron,1
+5-HT,Small Signaling Molecules,Neuron,1
+NA,Small Signaling Molecules,Neuron,2
+Ach,Small Signaling Molecules,Neuron,1
+ATP,Small Signaling Molecules,Neuron,2
+BK,Small Signaling Molecules,Neuron,1
+NO,Small Signaling Molecules,Neuron,1
+Ad,Small Signaling Molecules,Neuron,1
+DRD1,Cell Surface Receptors,Microglia,1
+DRD2,Cell Surface Receptors,Microglia,1
+B1AR,Cell Surface Receptors,Microglia,1
+A1AR,Cell Surface Receptors,Neuron,1
+A2AR,Cell Surface Receptors,Microglia,1
+TNFR1,Cell Surface Receptors,Neuron,1
+CX3CR1,Cell Surface Receptors,Microglia,1
+P2Yn,Cell Surface Receptors,Neuron,1
+P2Y4,Cell Surface Receptors,Microglia,1
+P2Y12,Cell Surface Receptors,Microglia,4
+B1R,Cell Surface Receptors,Microglia,1
+B2R,Cell Surface Receptors,Microglia,1
+VPAC1,Cell Surface Receptors,Neuron,1
+VPAC2,Cell Surface Receptors,Neuron,1
+CNR2,Cell Surface Receptors,Microglia,1
+mAChR,Cell Surface Receptors,Microglia,1
+mGLuRg3,Cell Surface Receptors,Microglia,1
+GABAb,Cell Surface Receptors,Microglia,1
+TrkA,Cell Surface Receptors,Microglia,1
+CD200R1,Cell Surface Receptors,Neuron,1
+IL-10Rβ,Cell Surface Receptors,Neuron,1
+IL-10Rα,Cell Surface Receptors,Neuron,1
+Nav1.1,Ion Channels,Neuron,4
+Nav1.2,Ion Channels,Neuron,1
+Nav1.3,Ion Channels,Neuron,2
+Nav1.6,Ion Channels,Neuron,2
+Nav1.7,Ion Channels,Neuron,5
+Nav1.8,Ion Channels,Neuron,13
+Nav1.9,Ion Channels,Neuron,1
+Cav1.2,Ion Channels,Neuron,3
+Cav2.2,Ion Channels,Neuron,4
+Cav3.1,Ion Channels,Neuron,1
+Cav3.2,Ion Channels,Neuron,2
+Cav3.3,Ion Channels,Neuron,1
+Kv1.4,Ion Channels,Neuron,1
+Kir,Ion Channels,Microglia,1
+KCa2.2,Ion Channels,Neuron,1
+KCa2.3,Ion Channels,Neuron,1
+KCa3.1,Ion Channels,Neuron,1
+ASIC,Ion Channels,Neuron,1
+Task1,Ion Channels,Microglia,1
+GRIA1,Ion Channels,Neuron,2
+GRIA2,Ion Channels,Neuron,2
+GRIA3,Ion Channels,Neuron,1
+P2Xn,Ion Channels,Neuron,1
+nACHR,Ion Channels,Microglia,1
+p38 MAPK,Intracellular Signaling Proteins,Neuron,1
+ERK,Intracellular Signaling Proteins,Neuron,1
+MNK 1,Intracellular Signaling Proteins,Neuron,1
+MNK2,Intracellular Signaling Proteins,Neuron,1
+PAKT,Intracellular Signaling Proteins,Microglia,1
+eIF4E,Intracellular Signaling Proteins,Microglia,1
+Eif4g1,Intracellular Signaling Proteins,Microglia,1
+ATG7,Intracellular Signaling Proteins,Microglia,1
+LC3-II,Intracellular Signaling Proteins,Neuron,1
+p62,Intracellular Signaling Proteins,Neuron,1
+NR1D1,Intracellular Signaling Proteins,Neuron,1
+HTT,Intracellular Signaling Proteins,Neuron,1
+cAMP,Intracellular Signaling Proteins,Microglia,1
+ROS,Intracellular Signaling Proteins,Microglia,1
+ARGI1,Intracellular Signaling Proteins,Microglia,1
+MMP13,Intracellular Signaling Proteins,Microglia,1
+PSD95,Structural and Synaptic Proteins,Neuron,1
+SHANK3,Structural and Synaptic Proteins,Neuron,1
+SYP,Structural and Synaptic Proteins,Neuron,1
+Nlgn1,Structural and Synaptic Proteins,Microglia,1
+Nlgn2,Structural and Synaptic Proteins,Microglia,1
+Nlgn3,Structural and Synaptic Proteins,Microglia,1
+Nlgn4,Structural and Synaptic Proteins,Microglia,1
+VGLUT1,Structural and Synaptic Proteins,Neuron,1
+STX18,Structural and Synaptic Proteins,Neuron,1
+aSyn,Structural and Synaptic Proteins,Neuron,1
+APOE,Structural and Synaptic Proteins,Microglia,1
+TM119,Structural and Synaptic Proteins,Microglia,1
+Iba1,Structural and Synaptic Proteins,Microglia,1
+CD68,Structural and Synaptic Proteins,Microglia,1
+CD11b/CR3,Structural and Synaptic Proteins,Microglia,1
+CD55,Structural and Synaptic Proteins,Microglia,1
+PLX3397,Pharmacological agent,Microglia,1
+PLX5622,Pharmacological agent,Microglia,2
+PLX5623,Pharmacological agent,Microglia,1
+TM59,Structural and Synaptic Proteins,Microglia,1
+Meth,Pharmacological agent,Microglia,1
+PS,Pharmacological agent,Microglia,1
+5-HT2b,Cell Surface Receptors,Microglia,1
+Alpha1,Cell Surface Receptors,Microglia,1
+Alpha2,Cell Surface Receptors,Microglia,1
+PACAP,Cell Surface Receptors,Neuron,1
+CB1,Cell Surface Receptors,Microglia,1
+ANA,Small Signaling Molecules,Neuron,1
+DCX,Structural and Synaptic Proteins,Neuron,1
+C1qR1,Cell Surface Receptors,Microglia,1
+B2AR,Cell Surface Receptors,Microglia,1
+APP,Structural and Synaptic Proteins,Neuron,1
